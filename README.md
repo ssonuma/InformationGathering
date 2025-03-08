@@ -22,13 +22,16 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+
 ![Screenshot 2025-03-08 131215](https://github.com/user-attachments/assets/56494e10-1813-4bfd-b8d9-d92ea3e916c9)
 
 Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
+
 ![Screenshot 2025-03-08 131956](https://github.com/user-attachments/assets/228e574b-9faf-4206-91cc-874b5c16e69e)
 
 History of the website:
+
 ![Screenshot 2025-03-08 132811](https://github.com/user-attachments/assets/8e014de6-93fd-4f00-a5e6-a01b3c5c223c)
 
 ![Screenshot 2025-03-08 132831](https://github.com/user-attachments/assets/af93b618-9899-470a-a62a-a4bf481aa4ea)
